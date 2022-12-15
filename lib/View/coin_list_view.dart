@@ -11,7 +11,7 @@ import '../ViewModel/Bloc/bloc_.dart';
 import '../ViewModel/Bloc/event_.dart';
 import '../ViewModel/Bloc/state.dart';
 
-class CoinListView extends StatefulWidget {
+class  CoinListView extends StatefulWidget {
   const CoinListView({Key? key}) : super(key: key);
 
   @override
